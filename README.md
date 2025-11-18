@@ -55,8 +55,6 @@ npm install
 npm start
 ```
 
-The app will open at [http://localhost:3000](http://localhost:3000)
-
 ## Available Scripts
 
 ### `npm start`
